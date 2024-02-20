@@ -13,7 +13,7 @@ tor-chaves-lima">
 <h2>👨🏻‍💻 About Me</h2>
 <ul>
   <li>Software Engineering Student 📖</li>
-  <li>AWS Solutions Architect ☁️</li>
+  <li>Certified AWS Solutions Architect ☁️</li>
   <li>Gentoo Linux User 💻</li>
 </ul>
 
